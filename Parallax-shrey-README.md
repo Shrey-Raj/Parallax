@@ -1,2 +1,2 @@
 # SHOX
-moonparallax-shrey.netlify.app
+https://shox-website-shrey.netlify.app
